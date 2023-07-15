@@ -1,0 +1,8 @@
+#include <stdio.h>//สýื้
+int main()
+    {
+        int a =0;
+        int b = ~a;
+    printf("%d",b);
+        return 0;
+    }
